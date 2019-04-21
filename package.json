@@ -1,0 +1,11 @@
+{
+  "name": "fabric_node_sdk_connect",
+  "version": "1.0.0",
+  "dependencies": {
+    "fabric-ca-client": "1.4.1",
+    "fabric-client": "1.4.1",
+    "fabric-network":"1.4.1",
+    "shelljs":"*",
+    "js-yaml":"3.13.1"
+  }
+}

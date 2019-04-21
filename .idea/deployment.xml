@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="192.168.10.41">
+    <serverData>
+      <paths name="172.16.104.197">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/chriszhao/DevFolder/test1/fabric_node_sdk_connect" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/node_modules" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="192.168.10.41">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/chriszhao/DevFolder/test1/fabric_node_sdk_connect" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/node_modules" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
